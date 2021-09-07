@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Yorick</h1>
 - 🌱 I’m currently learning **new languages**
 
-- 👨‍💻 All of my projects are available at [https://thundering-pipe-105.notion.site/Yorick-ten-Feld-cc816cce2e584dd0aaeeed217d90c645](https://thundering-pipe-105.notion.site/Yorick-ten-Feld-cc816cce2e584dd0aaeeed217d90c645)
+- 👨‍💻 All of my projects are available at [Here](https://thundering-pipe-105.notion.site/Yorick-ten-Feld-cc816cce2e584dd0aaeeed217d90c645)
 
 - 📫 How to reach me **yorick.tenfeld@gmail.com**
 
