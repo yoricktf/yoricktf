@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning **new languages**
 
-- 👨‍💻 All of my projects are available at [Here](https://thundering-pipe-105.notion.site/Yorick-ten-Feld-cc816cce2e584dd0aaeeed217d90c645)
+- 👨‍💻 All of my projects are available [Here](https://thundering-pipe-105.notion.site/Yorick-ten-Feld-cc816cce2e584dd0aaeeed217d90c645)
 
-- 📫 How to reach me **yorick.tenfeld@gmail.com**
+- 📫 Reach me at **yorick.tenfeld@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
