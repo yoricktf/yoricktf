@@ -17,3 +17,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoricktf&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&locale=en&layout=compact" alt="yoricktf" /></p>
 
 ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/yorick_ten_feld?style=for-the-badge)
+https://img.shields.io/badge/logo-notion-blue
