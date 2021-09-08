@@ -16,8 +16,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoricktf&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&locale=en&layout=compact" alt="yoricktf" /></p>
 
-
-
+<a href="https://thundering-pipe-105.notion.site/Yorick-ten-Feld-cc816cce2e584dd0aaeeed217d90c645" target="_blank"> <img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion"/> </a>
 
 
 
