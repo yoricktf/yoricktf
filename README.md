@@ -16,4 +16,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoricktf&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&locale=en&layout=compact" alt="yoricktf" /></p>
 
-![freeCodeCamp points](https://img.shields.io/freecodecamp/points/fcc9761688c-9e41-4342-b686-9b9257e2e06b?style=for-the-badge)
+![freeCodeCamp points](https://img.shields.io/freecodecamp/points/yorick_ten_feld?style=for-the-badge)
