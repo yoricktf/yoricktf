@@ -2,10 +2,6 @@
 
 - <a href="https://thundering-pipe-105.notion.site/Yorick-ten-Feld-cc816cce2e584dd0aaeeed217d90c645" target="_blank"> <img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion"/></a>  <a href="mailto:yorick.tenfeld@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge&logoColor=white"/> </a>  <a href="https://www.linkedin.com/in/yorick-ten-feld/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin"/> </a>
 
-- 🌱 I’m currently learning **new languages**
-
-- 📫 Reach me at **yorick.tenfeld@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yorick ten feld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yorick ten feld" height="30" width="40" /></a>
