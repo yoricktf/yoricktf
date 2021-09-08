@@ -18,7 +18,7 @@
 
 <a href="https://thundering-pipe-105.notion.site/Yorick-ten-Feld-cc816cce2e584dd0aaeeed217d90c645" target="_blank"> <img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion"/> </a>
 
-<a href="yorick.tenfeld@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge&logoColor=white"/> </a>
+<a href="mailto:yorick.tenfeld@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge&logoColor=white"/> </a>
 
 
 
