@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Yorick</h1>
-[<img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion">](<https://thundering-pipe-105.notion.site/Yorick-ten-Feld-cc816cce2e584dd0aaeeed217d90c645>)
+<img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion">](https://thundering-pipe-105.notion.site/Yorick-ten-Feld-cc816cce2e584dd0aaeeed217d90c645)
 - 🌱 I’m currently learning **new languages**
 
 - 📫 Reach me at **yorick.tenfeld@gmail.com**
