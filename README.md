@@ -1,4 +1,4 @@
-###About me
+### About me
 
 Currently enrolled at Spiced Academy doing the Full Stack Wed-Development Bootcamp. Feel free to get in touch with me at my gmail or LinkedIn
 
