@@ -7,6 +7,7 @@ I recently finished the Full Stack Wed-Development Bootcamp at Spiced Academy. I
 
 Below are some projects I have built. They are hosted on Heroku (so sometimes a dyno takes a second to spin up).
 
+- [VeganPlusButter](https://vegan-plus-butter.vercel.app/) - Blog site for admins to be able to make recipes Posts or blog posts. users can also log in and leave comments and favorites posts.
 
 - [BlogRockinBeets](https://blog-rockin-beets.herokuapp.com/) - recipe wesbite where users can store their own recipe.
 
@@ -15,5 +16,3 @@ Below are some projects I have built. They are hosted on Heroku (so sometimes a 
 - [Veggie Wars](https://yoricktf.github.io/Veggie-wars/) - Javascript game using DOM manipulation.
 
 - [Start page](https://startpage-yoz.herokuapp.com/) - A simple page with links when you make a new tab.
-
-- [Meeter](https://www.meeter.me/) - A group project to find a meeting space between two locations.
